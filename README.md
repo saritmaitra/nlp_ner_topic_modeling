@@ -1,4 +1,4 @@
-# nlp_ner_topic_modeling
+# Text mining, Named Entity & Topic Model
 
 News articles express information by focusing on named entities in news. Hence, it is an interesting work to extract the relationships among entities, words and topics through a large amount of news articles using natural language processing (NLP). I have used popular Latent Dirichlet Allocation ( LDA) algorithm for modeling purpose. LDA is generative probabilistic topic modeling approach.
 
